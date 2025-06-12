@@ -1,9 +1,9 @@
+## Hi there 👋
 <div align="center">
   <img height="260" src="https://i.gifer.com/6tIB.gif"  />
 </div>
 
 ###
-## Hi there 👋
 
 <!--
 **chtbenoit/chtbenoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
